@@ -1,9 +1,8 @@
 // src/popup.tsx
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css'; 
-import CountShow from './compontments/CountShow';
 import { handleGoToOptions } from './tools/functions';
+import './index.css'; 
 const App: React.FC = () => {
 
   return (
